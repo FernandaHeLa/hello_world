@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-29T22:36:08.518Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 OPR/78.0.4093.153" etag="KqAed5nLYe9VazMRcL-B" version="15.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-29T22:46:44.847Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 OPR/78.0.4093.153" etag="TozHy7-txEtLalRcavOe" version="15.0.3" type="github">
   <diagram id="07fea595-8f29-1299-0266-81d95cde20df" name="Page-1">
-    <mxGraphModel dx="1181" dy="-1777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1378" dy="-832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,6 +46,21 @@
         <mxCell id="657" value="" style="triangle;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;fillColor=#23445D;fontFamily=Helvetica;fontSize=17;fontColor=#23445d;align=center;rotation=90;gradientColor=none;flipH=1;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="332.92105263157896" y="2840.1666666666665" width="35" height="73" as="geometry" />
         </mxCell>
+        <UserObject label="&lt;div style=&quot;display: flex ; justify-content: center ; text-align: center ; align-items: baseline ; font-size: 0 ; line-height: 1.25 ; margin-top: -2px&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size: 13.3px ; color: #000000 ; font-family: &amp;#34;cousine&amp;#34;&quot;&gt;UNIVERSIDAD DE GUAYAQUIL&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex ; justify-content: center ; text-align: center ; align-items: baseline ; font-size: 0 ; line-height: 1.25 ; margin-top: -2px&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size: 13.3px ; color: #000000 ; font-family: &amp;#34;cousine&amp;#34;&quot;&gt;FACULTAD DE CIENCIAS MATEMÁTICAS Y FÍSICAS&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex ; justify-content: center ; text-align: center ; align-items: baseline ; font-size: 0 ; line-height: 1.25 ; margin-top: -2px&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size: 13.3px ; color: #000000 ; font-family: &amp;#34;cousine&amp;#34;&quot;&gt;CARRERA DE ING. EN SISTEMAS COMPUTACIONALES&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex ; justify-content: center ; text-align: center ; align-items: baseline ; font-size: 0 ; line-height: 1.25 ; margin-top: -2px&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size: 13.3px ; color: #000000 ; font-family: &amp;#34;cousine&amp;#34;&quot;&gt;SISTEMAS OPERATIVOS DISTRIBUIDOS&lt;br&gt;Fernanda Herrera&lt;/span&gt;&lt;/span&gt;&lt;span&gt;&lt;span style=&quot;font-size: 13.3px ; color: #000000 ; font-family: &amp;#34;cousine&amp;#34;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;&lt;span style=&quot;font-size: 13.3px ; color: #000000 ; font-family: &amp;#34;cousine&amp;#34;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="aGx88_n5G5oc" id="K6789IOhtBQORuf33qyl-657">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=13;fontFamily=Cousine;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;" vertex="1" parent="1">
+            <mxGeometry x="375" y="2406" width="405" height="75" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="kIx8rsd8tNa7" id="K6789IOhtBQORuf33qyl-658">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;whiteSpace=wrap;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;strokeWidth=0;image=https://images.lucid.app/images/3d3bb35d-d23b-4efb-83e1-1b1a9deea31a/content;imageAspect=0;" vertex="1" parent="1">
+            <mxGeometry x="270" y="2411" width="72" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="vIx8PuKDGsU5" id="K6789IOhtBQORuf33qyl-659">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;whiteSpace=wrap;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;strokeWidth=0;image=https://images.lucid.app/images/65c9b62d-5c66-4af0-9a83-0d21595e4b6c/content;imageAspect=0;" vertex="1" parent="1">
+            <mxGeometry x="810" y="2414" width="70" height="55" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
